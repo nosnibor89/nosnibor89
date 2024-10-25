@@ -22,6 +22,7 @@ I'm a loyal follower of best practices, unit testing, and teamwork. I also spend
 #### See my tech skills at<br/>
 https://frontendmasters.com/u/nosnibor89<br/>
 https://app.pluralsight.com/profile/nosnibor89<br/>
+https://www.credly.com/users/nosnibor89<br/>
   
 
 <br/>  
